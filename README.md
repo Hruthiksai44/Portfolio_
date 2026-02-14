@@ -72,7 +72,7 @@ Backend infrastructure for a centralized college project management platform.
 - Custom authorization framework integration
 - Performance-focused backend design
 
-🔗 Project Link: *(Add GitHub repo link)*
+🔗 Project Link: [*(Add GitHub repo link)*](https://github.com/GCET-Open-Source-Foundation/project_forum)
 
 ---
 
@@ -84,8 +84,6 @@ Student feedback analytics system for academic evaluation.
 - Automated rating aggregation
 - Relational database schema design
 - Administrative reporting tools
-
-🔗 Project Link: *(Add GitHub repo link)*
 
 ---
 
