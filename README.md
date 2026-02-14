@@ -72,7 +72,7 @@ Backend infrastructure for a centralized college project management platform.
 - Custom authorization framework integration
 - Performance-focused backend design
 
-🔗 Project Link: [*(Add GitHub repo link)*](https://github.com/GCET-Open-Source-Foundation/project_forum)
+🔗 Project Link: [*(GitHub repo link)*](https://github.com/GCET-Open-Source-Foundation/project_forum)
 
 ---
 
