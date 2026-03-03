@@ -7,6 +7,7 @@ Computer Science undergraduate focused on backend engineering, scalable systems,
 📍 Hyderabad, India  
 🎓 B.Tech Computer Science (Expected 2027)  
 📊 GPA: 8.2 / 10  
+🌐 Portfolio Link: https://hruthiksaimaduri.netlify.app/
 
 ---
 
